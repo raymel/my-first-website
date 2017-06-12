@@ -1,3 +1,3 @@
 Mel's Homepage
 
-Find my resume [here](/myresume).
+Find my resume [here](/myresume.md).
