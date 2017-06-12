@@ -4,4 +4,4 @@ Find my resume [here](myresume).
 
 This is me:
 
-![portrait](images/Mel-Lib-Portrait-Small.jpg).
+![portrait](Images/Mel-Lib-Portrait-Small.jpg).
